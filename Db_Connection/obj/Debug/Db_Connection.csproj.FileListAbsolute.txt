@@ -1,0 +1,11 @@
+H:\C#\Db_Connection\Db_Connection\bin\Debug\Db_Connection.exe.config
+H:\C#\Db_Connection\Db_Connection\bin\Debug\Db_Connection.exe
+H:\C#\Db_Connection\Db_Connection\bin\Debug\Db_Connection.pdb
+H:\C#\Db_Connection\Db_Connection\obj\Debug\Db_Connection.csproj.AssemblyReference.cache
+H:\C#\Db_Connection\Db_Connection\obj\Debug\Db_Connection.csproj.SuggestedBindingRedirects.cache
+H:\C#\Db_Connection\Db_Connection\obj\Debug\Db_Connection.Form1.resources
+H:\C#\Db_Connection\Db_Connection\obj\Debug\Db_Connection.Properties.Resources.resources
+H:\C#\Db_Connection\Db_Connection\obj\Debug\Db_Connection.csproj.GenerateResource.cache
+H:\C#\Db_Connection\Db_Connection\obj\Debug\Db_Connection.csproj.CoreCompileInputs.cache
+H:\C#\Db_Connection\Db_Connection\obj\Debug\Db_Connection.exe
+H:\C#\Db_Connection\Db_Connection\obj\Debug\Db_Connection.pdb
