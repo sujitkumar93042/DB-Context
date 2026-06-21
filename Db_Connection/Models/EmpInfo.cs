@@ -12,4 +12,13 @@ namespace Db_Connection.Models
         public string Address { get; set; } 
         public string Email { get; set; }
     }
+
+
+
+    public class rescource
+    {
+        public string RName { get; set; }
+        public decimal RPrice { get; set;  }
+        public int RCount { get; set; } 
+    }
 }
